@@ -31,8 +31,8 @@ export default function ComingSoonPage() {
             <div className="text-xl md:text-2xl font-bold text-[#E94560] font-['Orbitron',_sans-serif]">HTMS</div>
           </div>
           <Button
-            variant="ghost"
-            className="rounded-full px-4 md:px-6 py-1 md:py-2 text-sm md:text-base text-white hover:bg-[#E94560] hover:text-white transition-colors shadow-md hover:shadow-lg"
+            variant="default"
+            className="bg-[#E94560] hover:bg-[#E94560]/80 text-white font-semibold rounded-full px-4 md:px-6 py-1.5 md:py-2 text-sm md:text-base shadow-lg hover:shadow-xl transition-all duration-300 whitespace-nowrap"
           >
             Contact Us
           </Button>
